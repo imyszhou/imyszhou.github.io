@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Site</title>
-    <link>https://github.com/imyszhou/imyszhou.github.io/</link>
+    <link>https://imyszhou.github.io/</link>
     <description>Recent content on My New Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2023 16:30:44 +0800</lastBuildDate><atom:link href="https://github.com/imyszhou/imyszhou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 16:30:44 +0800</lastBuildDate><atom:link href="https://imyszhou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://github.com/imyszhou/imyszhou.github.io/post/test/</link>
+      <link>https://imyszhou.github.io/post/test/</link>
       <pubDate>Fri, 21 Apr 2023 16:30:44 +0800</pubDate>
       
-      <guid>https://github.com/imyszhou/imyszhou.github.io/post/test/</guid>
+      <guid>https://imyszhou.github.io/post/test/</guid>
       <description>Just when I was about to give it up, I finally made it up. Fuck it!</description>
     </item>
     
